@@ -8,7 +8,7 @@
 }
 
 .footer__link:hover {
-  color: #aaaaaa
+  color: #aaaaaa;
 }
 
 @media (max-width: 703px) {
