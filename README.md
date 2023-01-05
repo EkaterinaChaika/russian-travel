@@ -4,7 +4,7 @@
 * Интро
 * Figma
 * Навыки
-* Ссылка
+* Ссылка на проект
 
 **Интро**
 
@@ -18,4 +18,8 @@
 
 Одностраничный сайт, сделан для закрепления навыков адаптивной верстки и работы с Grid Layout.
 
+**Ссылка на проект**
+
+https://ekaterinachaika.github.io/russian-travel/
+https://ekaterinachaika.github.io/russian-travel/index.html
 
