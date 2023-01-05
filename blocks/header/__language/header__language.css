@@ -1,0 +1,11 @@
+.header__language {
+  display: flex;
+  gap: 18px;
+  align-items: flex-end;
+}
+
+@media (max-width: 320px) {
+  .header__language {
+    align-items: flex-end;
+  }
+}
