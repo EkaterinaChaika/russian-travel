@@ -3,8 +3,8 @@
   font-style: normal;
   src: local("Inter Regular"),
     local("Inter-Regular"),
-    url("./Inter-3.19/Inter Web/Inter-Regular.woff2") format("woff2"),
-    url("./Inter-3.19/Inter Web/Inter-Regular.woff") format("woff");
+    url("./Inter-Regular.woff2") format("woff2"),
+    url("./Inter-Regular.woff") format("woff");
   font-weight: 400;
 }
 
@@ -13,8 +13,8 @@
   font-style: normal;
   src: local("Inter Bold"),
     local("Inter-Bold"),
-    url("./Inter-3.19/Inter Web/Inter-Bold.woff2") format("woff2"),
-    url("./Inter-3.19/Inter Web/Inter-BoldItalic.woff") format("woff");
+    url("./Inter-Bold.woff2") format("woff2"),
+    url("./Inter-Bold.woff") format("woff");
   font-weight: 700;
 }
 
@@ -23,7 +23,7 @@
   font-style: normal;
   src: local("Inter Black"),
     local("Inter-Black"),
-    url("./Inter-3.19/Inter Web/Inter-Black.woff2") format("woff2"),
-    url("./Inter-3.19/Inter Web/Inter-Black.woff") format("woff");
+    url("./Inter-Black.woff2") format("woff2"),
+    url("./Inter-Black.woff") format("woff");
   font-weight: 900;
 }
