@@ -1,9 +1,10 @@
 .place {
   max-width: 984px;
   margin: 0;
+  padding: 0;
   display: grid;
   grid-template-columns: 460px 1fr;
-  grid-template-rows: repeat(3, auto);
+  grid-template-rows: repeat(2, auto);
   color: white;
   column-gap: 40px;
   row-gap: 48px;
@@ -25,14 +26,14 @@
   }
 }
 
-@media (max-width: 590px) {
+@media (max-width: 625px) {
   .place {
     max-width: 530px;
     grid-template-columns: 240px 1fr;
   }
 }
 
-@media (max-width: 515px) {
+@media (max-width: 522px) {
   .place {
     max-width: 470px;
     grid-template-columns: 1fr;

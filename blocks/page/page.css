@@ -1,9 +1,9 @@
 .page {
   background-color: hsl(216, 6%, 17%);
   max-width: 1280px;
-  overflow-x: hidden;
   font-family: "Inter", Helvetica, Arial, sans-serif;
   color: #ffffff;
+  margin: auto;
 }
 
 @media (max-width: 1024px){

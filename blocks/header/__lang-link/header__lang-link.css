@@ -7,10 +7,6 @@
   text-decoration: none;
 }
 
-.header__land-link:active {
-  text-decoration: underline;
-}
-
 @media (max-width: 360px) {
   .header__land-link {
     line-height: 1.1;

@@ -2,7 +2,7 @@
   align-self: end;
 }
 
-@media (max-width: 515px) {
+@media (max-width: 522px) {
   .place__website {
     max-width: 100%;
     margin: 0 16px 32px 16px;

@@ -1,9 +1,8 @@
 .place__image {
   width: 100%;
-  grid-row: span 2;
 }
 
-@media (max-width: 515px) {
+@media (max-width: 522px) {
   .place__image {
     margin-bottom: 32px;
   }

@@ -1,9 +1,7 @@
 .header__logo {
-  background: url(../../../images/heder-logo.png);
+  background: url(../../../images/__logo.svg);
   width: 176px;
   height: 52px;
-  left: 0;
-  top: 0;
 }
 
 @media (max-width: 360px) {

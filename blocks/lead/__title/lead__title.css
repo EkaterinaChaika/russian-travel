@@ -7,7 +7,13 @@
   margin: 0 0 32px 0;
 }
 
-@media (max-width: 676px) {
+@media (max-width: 765px) {
+  .lead__title {
+    font-size: 72px;
+  }
+}
+
+@media (max-width: 600px) {
   .lead__title {
     font-size: 56px;
   }
