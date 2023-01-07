@@ -1,14 +1,9 @@
 .footer__link {
-  margin-right: 18px;
   color: #ffffff;
   line-height: 1.1;
   font-size: 16px;
   font-weight: 400;
   text-decoration: none;
-}
-
-.footer__link:nth-last-child(5) {
-  margin-right: 0;
 }
 
 .footer__link:hover {

@@ -4,6 +4,7 @@
   display: grid;
   gap: 80px;
   padding: 0;
+  justify-items: center;
 }
 
 @media (max-width: 1024px) {
